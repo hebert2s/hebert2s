@@ -14,7 +14,7 @@ Sou movido por resolver problemas reais de produção, garantindo que o dado che
 * **Sistemas Operacionais:** Linux Debian/Ubuntu (Gerenciamento de serviços, systemd) e ambientes Windows Server.
 
 ### 💻 Desenvolvimento & Automação
-* **Linguagens:** Go (Golang), PHP, C++, JavaScript e MQL5.
+* **Linguagens:** Go (Golang), PHP, C++, JavaScript, MQL5, COBOL e muito mais.
 * **Foco Atual:** Arquitetura AWS (Solutions Architect), Docker (Containerização), Git e fluxos modernos de Migrations.
 
 ---
